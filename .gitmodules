@@ -1,0 +1,6 @@
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/idslab-autosec/AutoSVT-Algorithms.git
+[submodule "Carla-Apollo-Bridge"]
+	path = Carla-Apollo-Bridge
+	url = https://github.com/idslab-autosec/AutoSVT-Carla-Apollo-Bridge.git
