@@ -3,8 +3,8 @@
 </p>
 <h2 align="center">AutoSVT:3D Virtual Simulation Framework for SOTIF Validation and Training in Autonomous Driving</h2>
 <p align="center">
-<a href="https://github.com/idslab-autosec/AutoSVT"><img alt="Static Badge" src="https://img.shields.io/badge/release-v0.1.1-blue">
-</a>
+<a href="https://github.com/idslab-autosec/AutoSVT"><img alt="Static Badge" src="https://img.shields.io/badge/license-Apache2.0-green"></a>
+<a href="https://github.com/idslab-autosec/AutoSVT"><img alt="Static Badge" src="https://img.shields.io/badge/release-v0.1.1-blue"></a>
 </p>
 
 ## **3D Virtual Simulation Framework for SOTIF Validation and Training in Autonomous Driving**
