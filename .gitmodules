@@ -1,6 +1,6 @@
-[submodule "Algorithms"]
-	path = Algorithms
+[submodule "scenario_generation"]
+	path = scenario_generation
 	url = https://github.com/idslab-autosec/AutoSVT-Algorithms.git
-[submodule "Carla-Apollo-Bridge"]
-	path = Carla-Apollo-Bridge
+[submodule "bridge"]
+	path = bridge
 	url = https://github.com/idslab-autosec/AutoSVT-Carla-Apollo-Bridge.git
