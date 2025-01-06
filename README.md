@@ -52,7 +52,7 @@ Our goal is to position AutoSVT as the leading and most practical virtual simula
 
 ### 2. **Environmental Effects Enhancement**:
    - **Gradient Fog Density**: Simulate fog of varying densities, from light mist to heavy fog, aiding in evaluating sensor performance and driving strategy adaptability.
-   - **Snow Effect Simulation**: Examine the impact of snow on various sensors (e.g., radars, cameras) and its influence on vehicle dynamics.
+   - **Snow Effect Simulation**: Examine the impact of snow on various sensors (e.g., radars, cameras) and its influence on vehicle dynamics.(Subsequent updates will be made to the carla subrepository branch)
 
 ### 3. **Multi-Vehicle Testing Support**:
    - **Addition of Autonomous Driving Agents**: Introduce a variety of preset autonomous driving agents to support multi-vehicle interactions within the same scenario.
